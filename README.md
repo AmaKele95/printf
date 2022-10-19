@@ -160,7 +160,7 @@ or
 
 ## **Author**
 
---------------
+Amano and Chiamaka
 
 
 
